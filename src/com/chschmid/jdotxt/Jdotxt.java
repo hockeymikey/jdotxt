@@ -37,8 +37,8 @@ import com.todotxt.todotxttouch.task.TaskBag;
 import com.todotxt.todotxttouch.task.TaskBagFactory;
 
 public class Jdotxt {
-	public static final String VERSION = "0.4.8";
-	public static final String APPID   = "chschmid.jdotxt";
+	public static final String VERSION = "0.4.9";
+	public static final String APPID   = "hockeymikey.jdotxt";
 	
 	public static final int AUTOSAVE_DELAY = 3000;
 	

@@ -83,7 +83,7 @@ public class JdotxtGUI extends JFrame {
 	public static final String[] languages = { "English" };
 	
 	// Colors
-	public static Color COLOR_GRAY_PANEL = new Color(221, 221, 221);
+	public static Color COLOR_GRAY_PANEL = new Color(166, 4, 4);
 	public static Color COLOR_HOVER      = new Color(136, 201, 225);
 	public static Color COLOR_PRESSED    = new Color(51, 181, 229);
 	
